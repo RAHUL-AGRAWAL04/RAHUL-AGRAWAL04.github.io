@@ -1,5 +1,5 @@
 # Deploys the site to GitHub Pages on every push to main.
-name: Deploy to GitHub Pages
+name: Pipeline
 
 on:
   push:
